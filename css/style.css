@@ -1,0 +1,90 @@
+body
+{
+	background-color:rgb(8,51,143) ;
+	color: gray;
+		font-family: Segoe UI;
+}
+.colorFondo
+{
+
+	background-color: rgb(8,51,143);
+}
+.colorHeader
+{
+	background-color: white;
+	width:auto;
+	height:auto;
+
+}
+.titulo{
+	margin-top: 50px;
+	margin-left: 1px;
+	font-family: Segoe UI;
+	font-size: 25px;
+}
+.titulo2{
+	margin-top: 50px;
+	font-family: Segoe UI;
+	font-size: 20px;
+	margin-left: 70px;
+
+}
+.colormenu
+{
+background: rgb(229,229,229);
+width: auto;
+height: auto;
+
+}
+
+.colorTexto{color: white;
+	margin-left: 15px;
+}
+
+.separador{
+height: 5px;
+
+}
+
+.footer{
+width: auto;
+height: auto;
+background-color: rgb(229,229,229);
+}
+
+
+
+.Datos{
+color: blue;
+margin-left: 80px;
+}
+.separadorFooter{
+	height: 130px
+}
+.separadorHeder{
+	height: 100px
+}
+
+
+.imgOfrecemos{
+margin-left: 1%;
+border-radius: 1em;
+
+
+}
+
+
+.btnSolicitar
+{
+	margin-top:20px;
+	background-color:rgb(240,173,78);
+	border:none;
+	width:170px;
+	margin:0 auto;
+	margin-top:10px;
+}
+
+.separacion
+{
+	margin-bottom:4px;
+}
